@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* my dog
+* my apartment
+* minecraft
+* uwu
