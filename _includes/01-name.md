@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Kaleigh McGunnigle #
+name in the header
